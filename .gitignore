@@ -1,0 +1,6 @@
+__pycache__/
+pos_CAImages/
+neg_CAImages/
+*.fasta
+*.npy
+*.npz
