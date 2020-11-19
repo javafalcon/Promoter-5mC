@@ -11,7 +11,7 @@ def cellIterate(x,y,z,rule):
     return rule[k]
     
 def CAImage(DNAseq, num_iteration, num_rule):
-    ndic={'A':[0,0], 'C':[0,1], 'G':[1,0], 'T':[1,1]}
+    ndic={'A':[0,0], 'C':[0,1], 'G':[1,0], 'T':[1,1], 'N':[0,0]}
     bs = []
     for d in DNAseq:
         bs += ndic[d]
