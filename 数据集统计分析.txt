@@ -1,0 +1,8 @@
+训练集：
+正类A、C、G、T出现频率：0.1479，0.3489，0.3576，0.1457
+负类A、C、G、T出现频率：0.2073, 0.3036, 0.2767, 0.2124
+原数据集中，在正类样本集中没有其它字符出现，在负类样本集中N出现34次
+在train_data/train_negatative_data.fasta中有658861个样本, 其中有3个样本中出现字符'N'
+在train_data/train_positive_data.fasta中有55800个样本
+在test_data/test_nagative_data.fasta中164715个样本，有2个样本中出现字符'N'
+在test_data/test_positive_data.fasta中13950个样本

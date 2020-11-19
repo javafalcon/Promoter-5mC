@@ -1,6 +1,12 @@
 __pycache__/
-pos_CAImages/
-neg_CAImages/
+train_pos_CAImages/
+train_neg_CAImages/
+result/
+test_neg_CAImages/
+test_pos_CAImages/
+test_data/
+train_data/
 *.fasta
 *.npy
 *.npz
+*.rar
